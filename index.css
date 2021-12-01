@@ -1,0 +1,70 @@
+.inf{
+    font-size: 28px;
+    margin-top: 0;
+    color: green ;
+
+}
+header{
+    position: fixed;
+    height: 50px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(81, 86, 90);
+    padding: 10px;
+    box-sizing: border-box;
+}
+.inf a {
+    position: relative;
+    top: -40px;
+    text-decoration: none;
+    color:aliceblue;
+  }
+.img{
+    position: relative;
+    top: -5px;
+    left: 10px;
+    width: 40px;
+}
+ header .inf a:hover {
+    color: black;
+  }
+
+.pro1{
+    position: relative;
+    top: 120px;
+    left: 0;
+    right: 0;
+    width: 515px;
+    font-weight: 400;
+    font-size: 150%;
+    color: #fff;
+    background-color: #0043cf;
+    border-radius: 30px;
+}
+.pic img{
+    position: relative;
+    width: 40%;
+    margin-left:  540px;
+    margin-right: auto;
+    border-radius: 30px;
+}
+.pro2 ul{
+    position: relative;
+    top: -400px;
+    width: 478px;
+    font-size: xx-large;
+    color: #fff;
+    background-color: #f13e1e;
+    border-radius: 30px;
+}
+.logo img{
+
+width: 70px;
+}
+.logo{
+    position: relative;
+    top: -1000px;
+    right: 130px;
+    text-align: right;
+}
